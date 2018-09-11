@@ -1,0 +1,30 @@
+{
+  "name": "com.borismus.webintent",
+  "version": "1.0.0",
+  "description": "",
+  "cordova": {
+    "id": "com.borismus.webintent",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickh364/cordova-webintent.git"
+  },
+  "keywords": [
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "https://github.com/nickh364/cordova-webintent#readme"
+}
